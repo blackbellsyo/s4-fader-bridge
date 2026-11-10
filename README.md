@@ -78,3 +78,7 @@ Bridge 和 Traktor 誰先開都可以；Bridge 在 Ableton 之前開，Ableton �
 HID Report 的推桿位置參考自 [Mixxx](https://github.com/mixxxdj/mixxx) 的 `Traktor-Kontrol-S4-MK2-hid-scripts.js`，並已用實機確認。
 
 本專案與 Native Instruments、Ableton 無關。
+
+## 授權
+
+[MIT](LICENSE)
